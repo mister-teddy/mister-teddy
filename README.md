@@ -8,7 +8,7 @@ My name is Phat and I am a Full Stack Developer from Vietnam. I love writing cod
 - 🌱 I’m currently learning: GraphQL and TypeScript
 - 🤔 I’m looking for help with: an opportunity to work oversea
 - 💬 Ask me about: a job offer
-- 📫 How to reach me: contact me using <a href="mailto:hongphat.js@gmail.com" target="_blank"><img height="20" src="https://www.google.com/gmail/about/static/images/logo-gmail.png"></a> <a href="https://www.linkedin.com/in/hồng-phát-nguyễn-a94b44169" target="_blank"><img height="20" src="https://roseninstitute.com/wp-content/uploads/2008/09/linkedin.png"></a> <a href="https://nguyenhongphat0.github.io" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png"></a>
+- 📫 How to reach me: contact me using <a href="mailto:hongphat.js@gmail.com" target="_blank"><img height="20" src="https://www.google.com/gmail/about/static/images/logo-gmail.png"></a> <a href="www.linkedin.com/in/nguyenhongphat0" target="_blank"><img height="20" src="https://roseninstitute.com/wp-content/uploads/2008/09/linkedin.png"></a> <a href="https://nguyenhongphat0.github.io" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png"></a>
 - 😄 Pronouns: Phát in Vietnamese sounds like "fast" in English
 - ⚡ Fun fact: I'm a boring person, for sure
 
