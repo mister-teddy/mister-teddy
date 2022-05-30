@@ -2,7 +2,6 @@
 
 My name is Phat and I am a Full Stack Developer from Vietnam. I love writing code and I would love to delivery my code to these meaningful projects out there!
 
-- 🔭 I’m currently working on: [UpStage](https://github.com/upstage-org/mobilise) and [URBN Playground](https://www.urbnplayground.com)
 - 🌱 I’m currently learning: GraphQL and TypeScript
 - 🤔 I’m looking for help with: an opportunity to work oversea
 - 💬 Ask me about: a job offer
