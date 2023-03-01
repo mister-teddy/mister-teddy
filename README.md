@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/teddy"><img src="https://api.daily.dev/devcards/26b26dfccb10430e80930002121aca42.png?r=qf8" width="400" align="right" alt="Nguyễn Hồng Phát's Dev Card"/></a>
+<a href="https://app.daily.dev/teddy"><img src="https://api.daily.dev/devcards/26b26dfccb10430e80930002121aca42.png?r=qf8" width="300" align="right" alt="Nguyễn Hồng Phát's Dev Card"/></a>
 
 My name is Phat, and I am a Full Stack Developer from Vietnam. I love writing code, and I would love to deliver my code to these meaningful projects out there!
 
