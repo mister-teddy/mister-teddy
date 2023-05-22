@@ -15,4 +15,4 @@ My name is Phat, and I am a Full Stack Developer from Vietnam. I love writing co
 
 📈 My GitHub Stats
 
-![nguyenhongphat0's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhongphat0&count_private=true&show_icons=true&include_all_commits=true)
+![teddyfullstack's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyfullstack&count_private=true&show_icons=true&include_all_commits=true)
